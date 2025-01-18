@@ -159,6 +159,3 @@ This repository provides Quantum Machine Learning (QML) approaches for detecting
 - **Low Performance:**
   - `Pegasos_qsvc_qiskit_stone_detection.ipynb`, `piqture_stone_detection.ipynb`, and `qiskit_ml_stone_detection.ipynb` show subpar accuracy and require significant optimization.
 
-## Conclusion
-While classical and some quantum models excel in performance, others highlight the need for optimization in quantum kernels and parameter tuning. Future work should focus on enhancing low-performing models and validating these results on larger and more diverse datasets.
-
